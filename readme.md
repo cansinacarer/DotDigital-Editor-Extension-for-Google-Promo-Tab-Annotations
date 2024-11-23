@@ -31,7 +31,7 @@ The fields required by the annotation standard are also required in the block co
 
 ### Product Annotation Block
 
-This block creates a [product preview](https://developers.google.com/gmail/promotab/overview#single-image-preview). If you place more than one of these blocks, they will be shown in a [product carousel](https://developers.google.com/gmail/promotab/overview#product-carousel).
+This block creates a [product preview](https://developers.google.com/gmail/promotab/overview#single-image-preview), showing a product image, its price, description, and a link for it. If you place more than one of these blocks, they will be shown in a [product carousel](https://developers.google.com/gmail/promotab/overview#product-carousel).
 
 ![product-block](img/product-block.png)
 
